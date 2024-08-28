@@ -1,4 +1,4 @@
-program kmp_templete
+program kmp
   implicit none
   character(1000000) :: sample, words
   integer, dimension(:), allocatable :: fail
